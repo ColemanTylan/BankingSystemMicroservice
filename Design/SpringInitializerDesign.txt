@@ -1,0 +1,22 @@
+Project:
+Gradle - Kotlin
+
+Dependencies:
+Spring Data JPA
+Spring Web
+Spring Security
+Spring Boot Actuator
+Spring Boot DevTools
+Lombok
+Gateway
+Config Server
+Spring for Apache Kafka
+Spring for Apache Kafka Streams
+MySQL Driver
+PostgreSQL Driver
+Validation
+
+Springboot: (3.3.3) - This is stable release and reliable for production ready
+
+Packaging: Jar
+Java: 17
